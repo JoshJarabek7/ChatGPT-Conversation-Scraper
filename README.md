@@ -1,6 +1,6 @@
 # ChatGPT Conversation Exporter
 
-A JavaScript-based tool that lets you export your ChatGPT conversations to Markdown format. This script captures both your messages and ChatGPT's responses, preserving the conversation flow and basic formatting.
+A JavaScript script that lets you export your ChatGPT conversations to Markdown format. This script captures both your messages and ChatGPT's responses, preserving the conversation flow and basic formatting.
 
 ## Features
 
